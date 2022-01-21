@@ -7,7 +7,7 @@ made with the help of python<br>
 <br>![Screenshot (64)](https://user-images.githubusercontent.com/75438216/150531725-6d3bcc35-88be-439e-8e81-01b561810135.png)
 ![Screenshot (65)_LI](https://user-images.githubusercontent.com/75438216/150531778-d9825ab4-a8f1-46e8-88a8-53fe25f1c920.jpg)
 ## how to run on your pc
-- Download the source code file [ice_ball.py](/main/ice_ball.py)
+- Download the source code file [ice_ball.py](https://github.com/shubham-0927/snowball-game/blob/main/ice_ball.py)
 - run the code in python compiler
 ## controls:
 To move right : press right arrow key<br>
