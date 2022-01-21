@@ -16,3 +16,6 @@ To move left : press left arrow key <br>
 >- catch white snows ,its will increase th esize of snow ball and up the score
 >- keep distance from black snows you will your life
 >- you have 3 life ,hitting with black snows reduces the size of snow ball and -1 life
+<br>
+feel free to contribute any chenges <br>
+thnk you and enjoy the gam😊
