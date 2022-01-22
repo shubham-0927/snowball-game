@@ -68,7 +68,7 @@ while True:
     whitesnow.sety(whitesnow.ycor() - 0.1)
 
 
-    if (whitesnow.ycor()-ball.ycor()<pre*10) and (whitesnow.xcor()-ball.xcor()<pre *10):
+    if (ball.distance(whitesnow)<pre*10) and (ball.distance(whitesnow)<pre *10):
         pre = pre + 0.3
         ball.shapesize(pre)
         count = count + 1
@@ -82,7 +82,7 @@ while True:
         whitesnow.goto(random.randint(-250, 250), 350)
 
 
-    if (blacksnow.ycor()-ball.ycor()<pre*10-5) and (blacksnow.xcor()-ball.xcor()<pre*10-5):
+    if (ball.distance(blacksnow)<pre*10-5) and (ball.distance(blacksnow)<pre*10-5):
         life = life- 1
         pre = pre - 2
         ball.shapesize(pre)
